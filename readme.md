@@ -20,3 +20,7 @@ Torne seu repositorio do porjeto gerenciavel pelo Git.
 ```bash
     git init
 ```
+## Salvando a alteração
+
+```bash
+  git commit -m "Coloque aqui sua mensagem"
